@@ -1,25 +1,39 @@
-# CodeTrack-AI
+# 🚀 CodeTrack AI
 
-A full-stack web application to help students plan and track coding and aptitude preparation.
+CodeTrack AI is a full-stack web application that helps students prepare for coding interviews and aptitude tests by creating personalized study plans, tracking progress, and visualizing performance.
 
-## 🚀 Tech Stack
+## ✨ Features
 
+- 📚 Coding Topic Tracker
+- 🧠 Aptitude Topic Tracker
+- 📅 Daily Study Planner
+- 📈 Progress Dashboard
+- 🔥 Streak Tracker
+- ⏱️ Pomodoro Timer
+- 🤖 Smart Scheduler
+- 📖 Revision Planner
+
+## 🛠️ Tech Stack
+
+### Backend
 - Java
 - Spring Boot
+- Spring Data JPA
 - MySQL
+
+### Frontend
 - React
-- Git & GitHub
+- HTML
+- CSS
+- JavaScript
 
-## 📌 Planned Features
+### Tools
+- VS Code
+- Git
+- GitHub
 
-- Coding Topic Tracker
-- Aptitude Topic Tracker
-- Daily Study Planner
-- Smart Scheduler
-- Progress Dashboard
-- Revision Planner
-- Pomodoro Timer
+## 📌 Project Status
 
-## 📅 Status
+🚧 Under Development
 
-🚧 Project Started: 6 July 2026
+Started: **06 July 2026**
